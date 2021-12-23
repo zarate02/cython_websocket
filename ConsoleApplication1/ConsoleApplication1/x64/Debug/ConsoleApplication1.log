@@ -1,0 +1,6 @@
+﻿  testmain.c
+C:\Users\zarate\source\repos\ConsoleApplication1\ConsoleApplication1\testmain.c(26,1): warning C4133: '초기화 중': 'PyObject *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\zarate\source\repos\ConsoleApplication1\ConsoleApplication1\testmain.c(11,12): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+C:\Users\zarate\source\repos\ConsoleApplication1\ConsoleApplication1\testmain.c(10,41): warning C4101: 'pValue' :참조되지 않은 지역 변수입니다.
+C:\Users\zarate\source\repos\ConsoleApplication1\ConsoleApplication1\testmain.c(10,32): warning C4101: 'pFunc' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\zarate\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
